@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musefa&label=Profile%20views&color=0e75b6&style=flat" alt="musefa" /> </p>
 
-- 🌱 I’m currently learning **web app developing at Institut Vidal i Barraquer.**
+- 🌱 I’m currently learning **I am a second year student of web application development with knowledge in languages like PHP and JavaScript or frameworks like Laravel. I also have face to face experience and I am motivated to learn new things.**
+
+- 📫 How to reach me **ericgar2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
