@@ -5,7 +5,7 @@
 
 - 🌱 **I am a second year student of web application development with knowledge in languages like PHP and JavaScript or frameworks like Laravel. I also have face to face experience and I am motivated to learn new things.**
 
-- 📫 How to reach me **ericgar2003@gmail.com**
+- 📫 **How to reach me ericgar2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
