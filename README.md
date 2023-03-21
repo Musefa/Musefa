@@ -50,9 +50,10 @@ Estos son algunos de los lenguajes y tecnologías que he estado trabajando y apr
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </a>
 </p>
-**Contáctame ericgar2003@gmail.com** 📫
+- **Contáctame ericgar2003@gmail.com** 📫
 
 Si deseas colaborar en algún proyecto o simplemente ponerte en contacto, no dudes en hacerlo a través de mi LinkedIn.
+<p align="left">
 <a href="https://linkedin.com/in/eric-garcia-castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-garcia-castro" height="30" width="40" /></a>
-
+</p>
 ¡Gracias por visitar mi perfil y que tengas un buen día! 😊
