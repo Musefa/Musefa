@@ -1,6 +1,6 @@
 # Hola! Soy Eric García Castro 🚀
 
-Soy un desarrollador de aplicaciones web apasionado y un excelente compañero de equipo. Actualmente estoy cursando mi segundo año en el Grado Superior de Desarrollo de Aplicaciones Web. Me encanta colaborar con otros y aportar mis habilidades para crear soluciones innovadoras.
+Soy un desarrollador de aplicaciones web apasionado y un excelente compañero de equipo. Actualmente estoy en mi primer año de carrera en el Grado de Ingeniería Informática. Me encanta colaborar con otros y aportar mis habilidades para crear soluciones innovadoras.
 
 ## Conocimientos y habilidades 🌟
 
